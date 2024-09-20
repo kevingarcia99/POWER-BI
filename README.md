@@ -1,1 +1,2 @@
-# POWER-BI
+# POWER-BI_CASO-PRACTICO
+En el dashboard se incluyeron tres tarjetas para visualizar de manera rápida y sencilla el total de productos vendidos, el total de ventas y el total de estados en los que se realizaron estas ventas. También se agregaron visualizaciones de línea para identificar fácilmente patrones en las ganancias obtenidas por año. Se agregó un gráfico en forma de mapa en el cuál se puede visualizar con un círculo de mayor tamaño el estado donde se registraron más ventas. Finalmente se incluyó una hoja de detalle por producto donde el cliente puede saber quiénes son su clientes por producto, el total de ventas por producto y más detalles.
